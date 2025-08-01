@@ -70,9 +70,9 @@ Many people in India, especially in rural and underdeveloped areas, still lack a
 
 ## 📚 References
 
-- [MIS 78th Round – MoSPI](https://mospi.gov.in)
-- [AI Kosh Dataset Portal](https://aikosh.indiaai.gov.in)
-- [IBM Watson Studio Docs](https://dataplatform.cloud.ibm.com/docs/)
+- [MIS 78th Round – MoSPI]
+- [AI Kosh Dataset Portal]
+- [IBM Watson Studio Docs]
 - IBM AutoAI Tutorials & Guides
 - Project completed under the guidance of **Narendra Eluri Sir**
 - Research support and content assistance by **ChatGPT**
