@@ -85,10 +85,7 @@ Many people in India, especially in rural and underdeveloped areas, still lack a
 Dayananda Sagar University – AIML  
 Capstone Project for IBM SkillsBuild AI Analyst Certification
 
----
 
-## 📌 License
 
-This project is for educational and non-commercial research purposes.
 
 
