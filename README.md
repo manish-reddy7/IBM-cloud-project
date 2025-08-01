@@ -46,15 +46,7 @@ Many people in India, especially in rural and underdeveloped areas, still lack a
 - **Process**:
   - Data cleaning & preprocessing
   - AutoAI model training and validation
-  - Result visualization
-
----
-
-## ✅ Results
-
-- Model trained using AutoAI with automatic feature engineering and optimization
-- Accuracy and metrics evaluated using cross-validation
-- Visualization includes bar charts, pie charts, and prediction samples
+  - Result visualization.
 
 ---
 
